@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: JaviPalla
+Class-Path: dependencias/log4j-1.2.17.jar
+Build-Jdk: 1.8.0_111
+Created-By: Maven Integration for Eclipse
+Main-Class: es.egc.app.App
+
